@@ -1,0 +1,224 @@
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 260, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 57, in __init__
+    for j in range(input_para['start_symbol'],clo_num):
+TypeError: range() integer start argument expected, got str.
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 260, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 57, in __init__
+    for j in range(input_para['start_symbol'],clo_num):
+TypeError: range() integer start argument expected, got str.
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 57, in __init__
+    for j in range(input_para['start_symbol'],clo_num):
+TypeError: range() integer start argument expected, got str.
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 57, in __init__
+    for j in range(input_para['start_symbol'],clo_num):
+TypeError: range() integer start argument expected, got str.
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 98, in __init__
+    sizer_grid.Add(lbl_add_dmrs,pos=(8,0),span=(1,1),flag=wx.EXPAND|usr_style)
+wx._core.wxAssertionError: C++ assertion "!CheckForIntersection(item)" failed at ..\..\src\common\gbsizer.cpp(223) in wxGridBagSizer::Add(): An item is already at that position
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 98, in __init__
+    sizer_grid.Add(lbl_add_dmrs,pos=(8,0),span=(1,1),flag=wx.EXPAND|usr_style)
+wx._core.wxAssertionError: C++ assertion "!CheckForIntersection(item)" failed at ..\..\src\common\gbsizer.cpp(223) in wxGridBagSizer::Add(): An item is already at that position
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 98, in __init__
+    sizer_grid.Add(lbl_add_dmrs,pos=(8,0),span=(1,1),flag=wx.EXPAND|usr_style)
+wx._core.wxAssertionError: C++ assertion "!CheckForIntersection(item)" failed at ..\..\src\common\gbsizer.cpp(223) in wxGridBagSizer::Add(): An item is already at that position
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 98, in __init__
+    sizer_grid.Add(lbl_add_dmrs,pos=(8,0),span=(1,1),flag=wx.EXPAND|usr_style)
+wx._core.wxAssertionError: C++ assertion "!CheckForIntersection(item)" failed at ..\..\src\common\gbsizer.cpp(223) in wxGridBagSizer::Add(): An item is already at that position
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 98, in __init__
+    sizer_grid.Add(lbl_add_dmrs,pos=(8,0),span=(1,1),flag=wx.EXPAND|usr_style)
+wx._core.wxAssertionError: C++ assertion "!CheckForIntersection(item)" failed at ..\..\src\common\gbsizer.cpp(223) in wxGridBagSizer::Add(): An item is already at that position
+(1141, 428, 278, 544)
+Traceback (most recent call last):
+  File "D:/python/GUI/main.py", line 263, in onbutton
+    res_window1 = res_grid.res_window(self,input_para)
+  File "D:\python\GUI\res_grid.py", line 98, in __init__
+    sizer_grid.Add(lbl_add_dmrs,pos=(8,0),span=(1,1),flag=wx.EXPAND|usr_style)
+wx._core.wxAssertionError: C++ assertion "!CheckForIntersection(item)" failed at ..\..\src\common\gbsizer.cpp(223) in wxGridBagSizer::Add(): An item is already at that position
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
+(1141, 428, 278, 544)
