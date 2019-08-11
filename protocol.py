@@ -42,19 +42,6 @@ def cal_sliv(sliv, out_list):
 
 
 def cal_dmrs_pos(input_para):
-
-    #input_para = {
-    #            'pxsch':0,
-    #            'alloc_type':0,
-    #            'start_symbol':0,
-    #            'symbol_length':14,
-    #            'dmrs_type':0,
-    #            'dmrs_typeA_pos':0,
-    #            'dmrs_length':0,
-    #            'add_dmrs_pos':0,
-    #            'pdcch_symbol':1,
-    #            'dmrs_pos_list':[],
-    #}
     l = 0
     l0 = 0
     if input_para['alloc_type'] == 0:
